@@ -1,9 +1,5 @@
 import java.util.Scanner;
-/*
- * 
- * puan sistemi
- * en çok kullanılan harfler
- */
+
 public class hangman {
     public static void main(String[] args) {
         man m=new man(" hello world ");      
